@@ -22,7 +22,7 @@ Built using **Streamlit** for the interface and **Hugging Face Transformers** fo
 ---
 
 ## 🌐 Live Demo  
-👉 **Try it here:** [https://shash-hue-tiny-ai-text-summarizer.hf.space](https://shash-hue-tiny-ai-text-summarizer.hf.space)
+👉 **Try it here:** [https://huggingface.co/spaces/shashi-hue/tiny-ai-text-summarizer](https://huggingface.co/spaces/shashi-hue/tiny-ai-text-summarizer)
 
 ---
 
